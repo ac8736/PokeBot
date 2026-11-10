@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Pokémon Showdown server (cloned by scripts/start_server.sh)
+pokemon-showdown/
